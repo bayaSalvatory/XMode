@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">XMode</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_msg_permission">These permissions are mandatory to get your location. You need to allow them.</string>
 </resources>
